@@ -228,7 +228,7 @@ border: 1px solid #fff;
   min-width: 194px;
 }
 
-/*? Section right - details */
+/*? Section right - details  */
 .content__details {
   grid-area: details;
   width: 100%;
